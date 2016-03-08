@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[sxtest01]]></title>
+        <description><![CDATA[sxtest01]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 08 Mar 2016 09:50:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>toto je test POST02 - slon ako ma byt</p>]]></description>
+            <link>undefinedf5e627d1-1970-4ead-beee-88c049918793/index.html</link>
+            <guid isPermaLink="false">f5e627d1-1970-4ead-beee-88c049918793</guid>
+            <pubDate>Tue, 08 Mar 2016 09:49:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
