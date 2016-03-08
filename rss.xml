@@ -4,21 +4,21 @@
         <description><![CDATA[sxtest01]]></description>
         <link>https://thegrid.ai/sxtest01/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Mar 2016 09:53:30 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 09:54:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/sxtest01/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>toto je test POST02 - slon ako ma byt</p>]]></description>
+            <link>https://thegrid.ai/sxtest01/f5e627d1-1970-4ead-beee-88c049918793/index.html</link>
+            <guid isPermaLink="false">f5e627d1-1970-4ead-beee-88c049918793</guid>
+            <pubDate>Tue, 08 Mar 2016 09:54:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3ddbae65-199d-4c59-a90c-1ee8758f483d.jpg">]]></description>
             <link>https://thegrid.ai/sxtest01/5a81a52d-71b8-4ac9-8478-a3a939a02a9f/index.html</link>
             <guid isPermaLink="false">5a81a52d-71b8-4ac9-8478-a3a939a02a9f</guid>
             <pubDate>Tue, 08 Mar 2016 09:53:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>toto je test POST02 - slon ako ma byt</p>]]></description>
-            <link>https://thegrid.ai/sxtest01/f5e627d1-1970-4ead-beee-88c049918793/index.html</link>
-            <guid isPermaLink="false">f5e627d1-1970-4ead-beee-88c049918793</guid>
-            <pubDate>Tue, 08 Mar 2016 09:49:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
