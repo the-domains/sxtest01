@@ -1,7 +1,7 @@
 name: sxtest01
 favicon: null
-layout_spectrum: 0.787028182996437
-typography_spectrum: 0.23280387930572033
+layout_spectrum: 1
+typography_spectrum: 0.49047
 cta:
   domain: null
   bucket: null
